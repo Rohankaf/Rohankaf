@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 👋 Hi, I'm Rohan
 Building reliable backend systems for automated analysis<br>Projects that involve code quality, architecture, or automation<br>Guidance on contributing deeper to large open-source codebases<br>Contributing to well-maintained OSS repositories<br>Security engineering and backend architecture<br>I like taking complex manual processes and turning them into small, sharp, automated tools.<br>
 
 
