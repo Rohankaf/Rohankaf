@@ -13,7 +13,7 @@
 - OSINT + threat intelligence automation  
 - AI-assisted analysis (classification, NLP models, pattern detection)  
 - Small, sharp security tools  
-- Occasional contributions to open-source security projects (incl. Rizin)
+- Occasional contributions to open-source security projects 
 
 ### 🌐 Socials
 [GitHub](https://github.com/Rohankaf)
@@ -24,5 +24,4 @@
 <!-- Minimal, clean, professional -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rohankaf&show_icons=true&hide_title=true&count_private=true&theme=transparent&hide=issues)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohankaf&layout=compact&theme=transparent)
 
