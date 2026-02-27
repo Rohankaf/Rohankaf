@@ -1,6 +1,11 @@
-## 👋 Hi, I'm Rohan
-Building reliable backend systems for automated analysis<br>Projects that involve code quality, architecture, or automation<br>Guidance on contributing deeper to large open-source codebases<br>Contributing to well-maintained OSS repositories<br>Security engineering and backend architecture<br>I like taking complex manual processes and turning them into small, sharp, automated tools.<br>
+## Rohan
 
+Second account.
+
+Backend systems • Automation • Security engineering
+
+I design structured systems that replace manual effort with controlled execution.  
+If it’s repetitive, I automate it. If it’s complex, I architect it.
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-kafle-20425b2a8/?originalSubdomain=in) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/alpacaliketorta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohankafle15@gmail.com) 
