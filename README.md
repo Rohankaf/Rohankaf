@@ -1,11 +1,14 @@
 ## Rohan
 
-Second account.
+Second account dedicated to open-source contributions.
 
-Backend systems • Automation • Security engineering
+Areas of focus:
+- Backend engineering
+- Security engineering
+- OSINT systems
+- Automation and system architecture
 
-I design structured systems that replace manual effort with controlled execution.  
-If it’s repetitive, I automate it. If it’s complex, I architect it.
+If you’d like to collaborate, drop a mail.
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-kafle-20425b2a8/?originalSubdomain=in) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/alpacaliketorta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohankafle15@gmail.com) 
