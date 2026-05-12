@@ -3,7 +3,7 @@
 Second account dedicated to open-source contributions.
 
 Areas of focus:
-- Backend engineering
+- Quantum computation 
 - Security engineering
 - OSINT systems
 - Automation and system architecture
