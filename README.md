@@ -1,14 +1,16 @@
-## Hi , I'm Rohan 👋🏻
+Hi, I'm Rohan 👋
 
-Second account dedicated to open-source contributions.
+Exploring the intersection of Cybersecurity, Systems Research, and Intelligent Computing.
 
-Areas of focus:
-- Quantum computation 
-- Security engineering
-- OSINT systems
-- Automation and system architecture
+Security Engineering & Defensive Security
+OSINT & Cyber Threat Intelligence
+Systems Programming & Automation
+AI Research & Intelligent Security Systems
+Quantum Computing & Emerging Technologies
 
-If you’d like to collaborate, drop a mail.
+Interested in building practical tools, exploring complex systems, and contributing to open-source projects.
+
+📩 Open to research collaborations and meaningful technical discussions.
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-kafle-20425b2a8/?originalSubdomain=in) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/alpacaliketorta) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=rohankafle15@gmail.com)
